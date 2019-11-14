@@ -1,0 +1,36 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #282c34;
+    margin: 10px;
+    padding: 0 10px;
+}
+
+.wrapp {
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+    max-height: 400px;
+    padding: 20px;
+    border: 2px solid #282c34;
+    overflow-y: auto;
+}
+
+.task-p {
+
+}
+
+.inp {
+    width: 514px;
+    height: 32px;
+    border: 2px solid #282c34;
+}
+
+.btn-form {
+    height: 38px;
+    margin-left: 5px;
+}
+
+.btn-comp {
+    margin: auto 0;
+}
